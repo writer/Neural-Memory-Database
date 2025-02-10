@@ -1,4 +1,3 @@
-```markdown
 # Associative Neural Memory DB
 
 A next‑generation AI database engine inspired by human memory storage. This project implements a self‑contained, production‑ready engine that stores data as distributed, overlapping neural embeddings and provides a natural language query interface for associative (content‑addressable) retrieval.
